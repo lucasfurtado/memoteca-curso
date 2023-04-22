@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "id": 2,
+      "conteudo": "Estudando Angular",
+      "autoria": "Dev Alura",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Angular é o melhor",
+      "autoria": "Lucas",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Meu novo pensamento",
+      "autoria": "Lucas",
+      "modelo": "modelo3",
+      "id": 4
+    },
+    {
+      "conteudo": "Meu novo pensamento 2 editado",
+      "autoria": "Lucas editado",
+      "modelo": "modelo1",
+      "id": 5
+    },
+    {
+      "conteudo": "Mais um pensamento de Lucas EDITADO",
+      "autoria": "Lucas Furtado",
+      "modelo": "modelo1",
+      "id": 6
+    }
+  ]
+}
